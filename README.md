@@ -1,5 +1,5 @@
 Background & Objectives
-Let's build a To Do Manager with the basic CRUD features:
+Let's build a "To Do Manager" with the basic CRUD features:
 
 As a user, I can list tasks
 As a user, I can view the details of a task
